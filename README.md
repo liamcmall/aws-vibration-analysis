@@ -14,4 +14,4 @@
     [https://www.kaggle.com/datasets/jishnukoliyadan/vibration-analysis-on-rotating-shaft/data]
 3. **Data Warehouse:** Created on AWS Redshift
 
-**Feel free to contact me to collaborate or contribute.!**
+**Feel free to contact me to collaborate or contribute!**
